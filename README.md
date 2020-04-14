@@ -2,7 +2,7 @@
 
 Um ou dois parágrafos introdutórios a respeito do projeto
 
-## Instalação
+## Instalação e deploy
 
 1. Clone o repositório por HTTPS
 
@@ -16,7 +16,7 @@ git clone https://github.com/Mind-Consulting/Project
 cd Project
 ```
 
-3. Troque para a branch *develop*
+3. Troque para a branch **develop**
 
 ```sh
 git fetch
@@ -31,4 +31,8 @@ composer install
 
 ## Contribuição
 
-Desenvolvido por *Seu Nome* – [Github nickname](https://github.com/nickname/)
+Desenvolvido por **Seu Nome** – [Github nickname](https://github.com/nickname/)
+
+## MARKDOWN Language
+
+Para mais informações sobre essa linguagem, acesse o link [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
