@@ -3,19 +3,17 @@
 
 Um ou dois parágrafos introdutórios a respeito do projeto
 
-![](header.png)
-
 ## Instalação
 
-```sh
+1. ```sh
 git clone https://github.com/Mind-Consulting/Project
 ```
 
-```sh
+2. ```sh
 cd Project/application
 ```
 
-Verifique se existe dois arquivos chamados "composer.json" e "composer.lock". Caso exista, basta executar o comando abaixo na pasta que encontra-los.
+3. Verifique se existe dois arquivos chamados "composer.json" e "composer.lock". Caso exista, basta executar o comando abaixo na pasta que encontra-los.
 
 
 ```sh
@@ -24,11 +22,9 @@ composer install
 
 ## Meta
 
-Seu nome – [@YourTwitter](https://twitter.com/dbader_org) – seu_email@example.com
+Seu nome – [Github nickname](https://github.com/nickname/)
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
+## Contributing 
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
